@@ -1,46 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Homepage -->
-  <url>
-    <loc>https://www.redtreeguesthouse.com/</loc>
+  <sitemap>
+    <loc>https://www.redtreeguesthouse.com/sitemap-pages.xml</loc>
     <lastmod>2025-12-11</lastmod>
-    <priority>1.0</priority>
-  </url>
+  </sitemap>
 
-  <!-- Rooms -->
-  <url>
-    <loc>https://www.redtreeguesthouse.com/rooms</loc>
+  <sitemap>
+    <loc>https://www.redtreeguesthouse.com/sitemap-images.xml</loc>
     <lastmod>2025-12-11</lastmod>
-    <priority>0.9</priority>
-  </url>
+  </sitemap>
 
-  <!-- Locations -->
-  <url>
-    <loc>https://www.redtreeguesthouse.com/locations</loc>
-    <lastmod>2025-12-11</lastmod>
-    <priority>0.9</priority>
-  </url>
-
-  <!-- Facilities -->
-  <url>
-    <loc>https://www.redtreeguesthouse.com/facilities</loc>
-    <lastmod>2025-12-11</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Gallery -->
-  <url>
-    <loc>https://www.redtreeguesthouse.com/gallery</loc>
-    <lastmod>2025-12-11</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <!-- Contact / Booking -->
-  <url>
-    <loc>https://www.redtreeguesthouse.com/contact</loc>
-    <lastmod>2025-12-11</lastmod>
-    <priority>0.7</priority>
-  </url>
-
-</urlset>
+</sitemapindex>
