@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://www.redtreeguesthouse.com/gallery</loc>
+
+    <!-- Branch Images -->
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/branch-executive.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/branch-main.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/branch-premium.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/branch-red-sea.jpg</image:loc></image:image>
+
+    <!-- Gallery Apartment -->
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-apartment-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-apartment-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-apartment-3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-apartment-4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-apartment-5.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-apartment-6.jpg</image:loc></image:image>
+
+    <!-- Clifton -->
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-clifton-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-clifton-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-clifton-3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-clifton-4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-clifton-5.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-clifton-6.jpg</image:loc></image:image>
+
+    <!-- Executive -->
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-executive-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-executive-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-executive-3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-executive-4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-executive-5.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-executive-6.jpg</image:loc></image:image>
+
+    <!-- Main -->
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-main-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-main-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-main-3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-main-4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-main-5.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-main-6.jpg</image:loc></image:image>
+
+    <!-- Premium -->
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-premium-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-premium-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-premium-3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-premium-4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-premium-5.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-premium-6.jpg</image:loc></image:image>
+
+    <!-- Preview -->
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-preview-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-preview-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtreeguesthouse.com/images/gallery-preview-3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.redtr
